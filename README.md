@@ -1,6 +1,6 @@
 # Suitescript-for-PowerBI
 
-This Suitescript is a JS script to create a NetSuite Portlet to embed a Power BI report into the NetSuite portlet
+This Suitescript is a JavaScript to create a NetSuite Portlet to embed a Power BI report into the NetSuite portlet
 
 Steps:
 - Create the Power BI report
